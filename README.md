@@ -10,8 +10,6 @@ Hi, I'm Tristan! 👋 I am a Software Engineer and Applied Researcher passionate
 </p>
 
 
-## 🌐 Socials:
-
 ## 💻 Tech Stack:
 
 <p>
